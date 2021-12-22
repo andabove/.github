@@ -1,5 +1,5 @@
 <div align="center">  
-<img src="logo.png" alt="RCCO logo" width="150">
+<img src="profile/logo.png" alt="RCCO logo" width="150">
 
 # Creative pioneers for tech brands
 
