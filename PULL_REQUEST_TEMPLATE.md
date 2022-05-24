@@ -14,6 +14,7 @@
 - [ ] I have performed a self-review of my code
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] My changes generate no new warnings/errors
+- [ ] I have not left unused commented code
 
 ### 🖼️ Screenshots
 <!-- Add screenshots of what the PR visually changes -->
